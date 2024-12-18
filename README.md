@@ -1,6 +1,12 @@
 # Theme changer feature for websites
 - This is a template that provides a minimal setup for theme changing features.
 
+![[./docs/light_theme.png]]
+
+---
+
+![[./docs/dark_theme.png]]
+
 # References
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
