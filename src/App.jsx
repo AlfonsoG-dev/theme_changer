@@ -15,7 +15,7 @@ export default function App() {
     return (
         <div className={`container-${isLightTheme ? 'light':'dark'} container`}>
             <button onClick={handle_change_theme}>
-                {isLightTheme ? 'light':'dark'}
+                {isLightTheme ? 'dark':'light'}
             </button>
             <h1>This is random title</h1>
             <p>This is random text</p>
