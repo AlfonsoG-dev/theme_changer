@@ -1,11 +1,11 @@
 # Theme changer feature for websites
 - This is a template that provides a minimal setup for theme changing features.
 
-![[./docs/light_theme.png]]
+[expected light theme](./docs/light_theme.png)
 
 ---
 
-![[./docs/dark_theme.png]]
+[expected dark theme](./docs/dark_theme.png)
 
 # References
 
